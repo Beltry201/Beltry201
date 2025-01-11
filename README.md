@@ -1,1 +1,56 @@
+<div align="center">
+  <img src="[Your banner image URL]" alt="David Beltran Banner"/>
+</div>
 
+# Hi there 👋, I'm David Beltrán
+
+<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true" alt="stats" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering Student
+- 💼 Technical Cofounder of Two Startups
+- 🌍 Based in Monterrey, Mexico
+- 📫 Contact: beltrangonzalezdavid@gmail.com
+
+## 🛠️ Tech Stack
+
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+## 🚀 Recent Projects
+
+|[FuzzyFlags](Your-Repo-Link) | [Pillexa](Your-Repo-Link) | [Whistleblower](Your-Repo-Link) | [MedicFlow](Your-Repo-Link)|
+|:---:|:---:|:---:|:---:|
+|![](https://img.shields.io/badge/NextJS-Project-blue) | ![](https://img.shields.io/badge/MedusaJS-Platform-green) | ![](https://img.shields.io/badge/Tech-Lead-red) | ![](https://img.shields.io/badge/OpenAI-Integration-purple)|
+
+## 💼 Experience Highlights
+
+- 🔹 **FuzzyFlags** - Fullstack Developer
+  - Led QA and developer onboarding
+  - Built MVP for MIT student initiative
+  
+- 🔹 **Yuju** - Python Developer
+  - Integrated Shein Marketplace API
+  - Developed AWS-based ecommerce solutions
+  
+- 🔹 **Whistleblower** - Tech Lead
+  - Scaled to 1000+ users in first quarter
+  - Led team of 4 developers
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
+
+---
+
+<div align="center">
+  <i>⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)</i>
+</div>
