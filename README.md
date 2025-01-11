@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[Your banner image URL]" alt="David Beltran Banner"/>
+  <img src="https://github.com/Beltry201/Beltry201/blob/main/github-header-image.png" alt="David Beltran Banner"/>
 </div>
 
 # Hi there 👋, I'm David Beltrán
