@@ -21,7 +21,7 @@
 
 ## 🚀 Recent Projects
 
-|[FuzzyFlags](Your-Repo-Link) | [Pillexa](Your-Repo-Link) | [Whistleblower](Your-Repo-Link) | [MedicFlow](Your-Repo-Link)|
+|[FuzzyFlags](https://github.com/fuzzyflags) | [Pillexa](https://www.preparemedical.com) | [Whistleblower](https://github.com/Whistleblowwwer/w_api) | [MedicFlow](https://github.com/Beltry201/MedicFlow-Api/settings)|
 |:---:|:---:|:---:|:---:|
 |![](https://img.shields.io/badge/NextJS-Project-blue) | ![](https://img.shields.io/badge/MedusaJS-Platform-green) | ![](https://img.shields.io/badge/Tech-Lead-red) | ![](https://img.shields.io/badge/OpenAI-Integration-purple)|
 
@@ -41,14 +41,8 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Beltry201&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
-
----
-
-<div align="center">
-  <i>⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)</i>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-beltran-gonzalez)
