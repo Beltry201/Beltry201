@@ -4,8 +4,6 @@
 
 # Hi there 👋, I'm David Beltrán
 
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true" alt="stats" height="140" width="450" align="right" style="margin: 5px; margin-bottom: 0px;" />
-
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering Student
