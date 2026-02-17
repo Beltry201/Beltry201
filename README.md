@@ -39,10 +39,6 @@
   - Scaled to 1000+ users in first quarter
   - Led team of 4 developers
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Beltry201&show_icons=true&theme=radical)
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-beltran-gonzalez)
