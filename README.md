@@ -2,43 +2,99 @@
   <img src="https://github.com/Beltry201/Beltry201/blob/main/github-header-image.png" alt="David Beltran Banner"/>
 </div>
 
-# Hi there 👋, I'm David Beltrán
+# David Beltrán
+AI Product Engineer · Technical Founder · Serverless Systems
 
-## 👨‍💻 About Me
+Monterrey, MX  
+📩 beltrangonzalezdavid@gmail.com  
+🔗 linkedin.com/in/david-beltran-gonzalez  
 
-- 🎓 Software Engineering Student
-- 💼 Technical Cofounder of Two Startups
-- 🌍 Based in Monterrey, Mexico
-- 📫 Contact: beltrangonzalezdavid@gmail.com
+---
 
-## 🛠️ Tech Stack
+## Focus
 
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+Build production software where:
+- AI is embedded in workflows, not bolted on
+- Infra is serverless, event-driven, cost-aware
+- MVPs ship fast but scale correctly
 
-## 🚀 Recent Projects
+---
 
-|[FuzzyFlags](https://github.com/fuzzyflags) | [Pillexa](https://www.preparemedical.com) | [Whistleblower](https://github.com/Whistleblowwwer/w_api) | [MedicFlow](https://github.com/Beltry201/MedicFlow-Api/settings)|
-|:---:|:---:|:---:|:---:|
-|![](https://img.shields.io/badge/NextJS-Project-blue) | ![](https://img.shields.io/badge/MedusaJS-Platform-green) | ![](https://img.shields.io/badge/Tech-Lead-red) | ![](https://img.shields.io/badge/OpenAI-Integration-purple)|
+## Stack
 
-## 💼 Experience Highlights
+**AI**
+- OpenAI APIs
+- LangChain
+- LangGraph
+- RAG architectures
+- MCP servers
 
-- 🔹 **FuzzyFlags** - Fullstack Developer
-  - Led QA and developer onboarding
-  - Built MVP for MIT student initiative
-  
-- 🔹 **Yuju** - Python Developer
-  - Integrated Shein Marketplace API
-  - Developed AWS-based ecommerce solutions
-  
-- 🔹 **Whistleblower** - Tech Lead
-  - Scaled to 1000+ users in first quarter
-  - Led team of 4 developers
+**Backend**
+- Node.js
+- Python
+- TypeScript
+- GraphQL / REST
 
-## 🤝 Connect with Me
+**Cloud**
+- AWS Lambda
+- DynamoDB
+- SQS
+- API Gateway
+- RDS
+- Route53
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-beltran-gonzalez)
+**Frontend**
+- NextJS
+- React
+- Flutter
+
+**Infra / DevOps**
+- Docker
+- Kubernetes
+- Linux
+- CI/CD pipelines
+
+---
+
+## What I Build
+
+- AI-assisted product architectures  
+- Serverless multi-tenant platforms  
+- Production MVPs (weeks, not months)  
+- Developer platforms / APIs  
+- Internal AI automation tooling  
+
+---
+
+## Selected Work
+
+### Belong — Technical Cofounder
+- Built MVP (Web + Mobile)
+- Designed AI-assisted dev workflows
+- Implemented event-driven backend + GraphQL APIs
+- Translated business operations → production systems  
+
+(Experience building AI-driven products and scalable serverless platforms) :contentReference[oaicite:0]{index=0}
+
+---
+
+### FuzzyFlags — Fullstack Engineer
+- NextJS + MedusaJS production systems
+- QA + developer onboarding
+- MIT initiative MVP shipped in 4 weeks
+
+---
+
+### Yuju — Python / AWS Backend
+- Serverless marketplace APIs (75+ sellers)
+- Lambda + DynamoDB + SQS architecture
+- Developer-facing documentation + support
+
+---
+
+## Currently Interested In
+
+- Multi-agent production systems  
+- AI-native backend architectures  
+- AI-assisted debugging + observability  
+- High-leverage internal dev tools  
