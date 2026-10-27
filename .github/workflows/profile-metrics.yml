@@ -1,0 +1,50 @@
+name: Profile metrics
+
+on:
+  schedule:
+    - cron: "23 11 * * *" # daily, 6:23 am Bogotá
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/profile-metrics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Draw metrics
+        run: node scripts/build-metrics.mjs
+        env:
+          # Optional: add a METRICS_TOKEN secret (classic PAT, scopes: repo, read:user)
+          # to count commits and languages from private repos too.
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+          TIMEZONE: America/Bogota
+          TIMEZONE_LABEL: Bogotá time
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-*.svg assets/rhythm-*.svg
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: refresh profile metrics"
+            git push
+          fi
