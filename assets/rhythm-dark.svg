@@ -59,5 +59,5 @@ text{font-family:'Bricolage', 'Segoe UI', system-ui, -apple-system, sans-serif;f
   <text x="960" y="330" text-anchor="end" font-size="14" fill="#8D93A7">1.6%</text>
   <rect x="784" y="336" width="176" height="4" rx="2" fill="#161B25"/>
   <rect x="784" y="336" width="4" height="4" rx="2" fill="#5F6578"/>
-<text x="960" y="422" text-anchor="end" font-size="13.5" fill="#5F6578">Updated Oct 27, 2026 from the GitHub API</text>
+<text x="960" y="422" text-anchor="end" font-size="13.5" fill="#5F6578">Updated Oct 28, 2026 from the GitHub API</text>
 </svg>
